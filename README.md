@@ -11,6 +11,8 @@ The goal of this repository is to practice problem solving, algorithmic thinking
 | File | Description |
 |---|---|
 | `Merge sort.py` | Implementation of Merge Sort algorithm |
+| `quick sort.py` | Implementation of Quick Sort algorithm |
+| `selection sort.py` | Implementation of Selection Sort algorithm |
 | `binary search.py` | Implementation of Binary Search algorithm |
 | `linkedlist.py` | Implementation of Singly Linked List |
 
@@ -23,8 +25,13 @@ The goal of this repository is to practice problem solving, algorithmic thinking
 - Sorting Algorithms
 - Searching Algorithms
 
+### Sorting Techniques Included
+- Merge Sort
+- Quick Sort
+- Selection Sort
+
 ### Data Structures
-- Linked Lists
+- Singly Linked List
 - Nodes and References
 
 ---
@@ -32,10 +39,11 @@ The goal of this repository is to practice problem solving, algorithmic thinking
 ## Skills Demonstrated
 
 - Algorithm Design
-- Time Complexity Understanding
 - Recursive Programming
+- Searching and Sorting Logic
 - Data Structure Implementation
 - Problem Solving in Python
+- Understanding Time Complexity
 
 ---
 
@@ -61,8 +69,10 @@ Planned implementations include:
 - Queue
 - Doubly Linked List
 - Trees
+- AVL Trees
 - Hash Tables
 - Graph Algorithms
 
 ---
 
+## Status
